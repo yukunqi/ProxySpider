@@ -24,4 +24,4 @@
 
 ## 使用方法
 只需引入请求类，然后输入目标网站，设置是否使用代理即可请求。
-![]()
+![](https://github.com/yukunqi/ProxySpider/blob/master/%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE.jpg)
